@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-amqplib/php-amqplib": ">=3.0",
+        "io-developer/php-whois": "^4.0"
+    }
+}
